@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+  - name: exemple de test - ansible pull
+    shell: echo "ansible pull"  
